@@ -2,7 +2,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "editor.minimap.enabled": false,
+    "editor.minimap.enabled": true,
     "[dart]": {
         "editor.formatOnSave": true,
         "editor.formatOnType": true,
