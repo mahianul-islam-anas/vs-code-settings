@@ -21,7 +21,7 @@
     "editor.smoothScrolling": true,
     "dart.previewFlutterUiGuides": true,
     "editor.guides.indentation": false,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": true
     
     
     
